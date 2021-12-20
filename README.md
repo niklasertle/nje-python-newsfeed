@@ -26,8 +26,8 @@ Then you are able to run the application by using **'python -m flask run'**
 
 ## **Links**
 
-<!-- ![Screenshot of App]() <br>
-[Walkthrough Video]() <br> -->
+![Screenshot of App](./assets/app-screenshot.JPG) <br>
+[Walkthrough Video](https://youtu.be/5jnHpgxZNCk) <br>
 [Deployed App](https://nje-python-newsfeed.herokuapp.com/) <br>
 [GitHub](https://github.com/niklasertle/python-newsfeed)
 
